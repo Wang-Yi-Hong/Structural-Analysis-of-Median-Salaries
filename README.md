@@ -15,7 +15,7 @@
 綜合以上變數建立 1 份dashboard，基於不同職位，年齡，年資，學歷的薪資中位數差異
 
 可以在句尾的連結體驗在網站上操作，或是下載原始檔以及資料在本機上處理。
-[**▶️ 立即體驗完整的dashboard！**](https://wang-yi-hong.github.io/Structural-Analysis-of-Median-Salaries--Tableau-example/)
+[**▶️ 立即體驗完整的dashboard！**](https://wang-yi-hong.github.io/Structural-Analysis-of-Median-Salaries/)
 
 薪資中位數結構分析的dashboard就到這裡，謝謝大家觀看。
 
